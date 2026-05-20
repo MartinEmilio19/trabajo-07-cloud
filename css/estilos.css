@@ -13,7 +13,7 @@ body{
     height: 100vh;
 }
 
-.container{
+.contenedor{
     width: 900px;
     height: 420px;
     background: #4c4949;
@@ -50,7 +50,7 @@ body{
 p{
     font-size: 14px;
 }
-.info{
+.información{
     display: flex;
     gap: 25px;
     margin-bottom: 20px;
@@ -58,7 +58,7 @@ p{
     font-size: 15px;
 }
 
-.stars{
+.estrellas{
     color: #37d1a0;
     font-size: 22px;
     margin-bottom: 20px;
